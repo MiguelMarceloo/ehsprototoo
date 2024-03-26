@@ -17,16 +17,7 @@ const MainMenuConfig: Array<MenuItem> = [
       },
     ],
   },
-  {
-    pages: [
-      {
-        heading: "Company",
-        route: "/dashboard",
-        keenthemesIcon: "element-11",
-        bootstrapIcon: "bi-app-indicator",
-      },
-    ],
-  },
+
   {
     heading: "craft",
     route: "/crafted",
